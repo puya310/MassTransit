@@ -22,7 +22,7 @@
 
   <ItemGroup>
     <PackageReference Include="AWSSDK.SimpleNotificationService" />
-    <PackageReference Include="AWSSDK.SQS" />
+    <PackageReference Include="AWSSDK.SQS" Version="3.7.102.8" />
     <PackageReference Include="Microsoft.SourceLink.GitHub" PrivateAssets="All" />
   </ItemGroup>
 
